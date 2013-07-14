@@ -4,3 +4,12 @@ C:\Users\Benedikt\AppData\Local\Temporary Projects\FizzBuzzGit\obj\x86\Debug\Fiz
 C:\Users\Benedikt\AppData\Local\Temporary Projects\FizzBuzzGit\obj\x86\Debug\FizzBuzzGit.pdb
 C:\Users\Benedikt\documents\visual studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\obj\x86\Debug\FizzBuzzGit.exe
 C:\Users\Benedikt\documents\visual studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\obj\x86\Debug\FizzBuzzGit.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\bin\Debug\FizzBuzzGit.exe
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\bin\Debug\FizzBuzzGit.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\obj\x86\Debug\FizzBuzzGit.csprojResolveAssemblyReference.cache
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\bin\Debug\FizzBuzzGit.exe.config
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\bin\Debug\nunit.core.dll
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\bin\Debug\nunit.framework.dll
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\bin\Debug\log4net.dll
+C:\Users\Benedikt\Documents\Visual Studio 2010\Projects\FizzBuzzGit\FizzBuzzGit\bin\Debug\nunit.framework.xml
