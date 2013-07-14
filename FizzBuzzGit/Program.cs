@@ -25,6 +25,10 @@ namespace FizzBuzzGit
         public string Start()
         {
             var result = string.Empty;
+            for (int i = 1; i < 101; i++)
+            {
+                result = result + i;
+            }
             return result;
         }
         
@@ -33,18 +37,30 @@ namespace FizzBuzzGit
     [TestFixture]
     public class TestClass
     {
-        private FizzBuzz _fizzBuzz;
+        private FizzBuzz _FizzBuzz;
 
         [SetUp]
         public void Setup()
         {
-            _fizzBuzz = new FizzBuzz();
+            _FizzBuzz = new FizzBuzz();
         }
 
         [Test]
         public void ShouldReturnNotNullWhenStart()
         {
-            Assert.That(_fizzBuzz.Start(), Is.Not.Null);
+            Assert.That(_FizzBuzz.Start(), Is.Not.Null);
+        }
+
+        [Test]
+        public void ShouldStartWithOne()
+        {
+            Assert.That(_FizzBuzz.Start(), Is.StringStarting("1"));
+        }
+
+        [Test]
+        public void ShouldEndWithOnehundred()
+        {
+            Assert.That(_FizzBuzz.Start(), Is.StringEnding("100"));
         }
     }
 }
